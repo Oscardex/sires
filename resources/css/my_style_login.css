@@ -1,0 +1,18 @@
+.login_content{
+	opacity: 1;
+	border-radius: 5%;
+	box-shadow: -5px 10px 10px #888888;
+}
+form div{
+	width: 90%;
+	margin-left: 5%;
+}
+.logo img{
+	width: 40%;
+	height: 40%;
+	margin-left: 30%;
+	margin-bottom: -10%;
+	border-radius: 70px;
+	border: 1px solid;
+
+}

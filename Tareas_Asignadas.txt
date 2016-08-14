@@ -1,0 +1,36 @@
+Buenas Noches chicos espero esten bien aqui les hago presente un Documento
+Donde asignare las tareas que vamos a realizar para seguir con el avance del proyecto
+
+
+Andres Lenis Cartagena : 
+Documentacion,informacion del flujo del Sistema 
+con sus correspondientes Diagramas y pruebas tanto de caja 
+Negra como caja Blanca o realizar la investigacion de que
+tipo de Pruebas a realizar a una aplicacion web.
+
+
+Andres Fabian Trigueros Y Daniela Urbano Muelas: 
+Encargados del Diseño y traduccion asi como la personalizacion
+y utilizacion de herramientas tanto para los usuarios normales 
+ej:personas o aprendices del sena
+como tambien aquellos que manipulan el Sistema.
+
+
+Erika Valencia Herrera y Oscar Derian Lizarazo Rodriguez:
+Analisis y posibles implementaciones de la base de datos para realizar pruebas
+beta sobre el funcionamiento fluido por ahora realizando una validacion del Login
+y los diferentes tipos de usuarios que pueden ingresar y si es necesario 
+la registracion de usuarios para consultar sus datos.
+
+
+Aclaro que estas funciones y asignaciones son temporales dependiendo del avance
+y compromiso de los integrantes del grupo asi como tambien todos tendran
+su parte en cada una de las areas a implementar en el proyecto y esto lo aclaro
+para todos aquellos que quieren diseñar asi como tambien programar y hacer
+validacion y otros que quieren hacer Documentacion espero tengan Un Excelente
+fin de semana y festivo Dios los bendiga y exitos yo se que podremos sacar 
+este proyecto adelante.
+
+Todo esto debe estar listo para el dia martes 16 de agosto del 2016 
+Gracias por su atención 
+						
